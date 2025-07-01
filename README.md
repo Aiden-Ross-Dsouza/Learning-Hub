@@ -30,7 +30,7 @@ A personal collection of high-quality resources for learning AI, machine learnin
 - [Neural Networks: Zero to Hero (Andrej Karpathy)](https://github.com/karpathy/nn-zero-to-hero?utm_source=linkedin) — ⭐ 14.2k  
   *A hands-on introduction to neural networks, backpropagation, and training.*
 
-- [ML for Beginners (Microsoft)](https://github.com/microsoft/ML-For-Beginners?utm_source=linkedin) — ⭐ 86.2k  
+- [ML for Beginners (Microsoft)](https://github.com/microsoft/ML-For-Beginners?utm_source=linkedin) — ⭐ 73.4k  
   *Everything you need to know to start building GenAI apps.*
 
 - [Made With ML](https://github.com/GokuMohandas/Made-With-ML?utm_source=linkedin) — ⭐ 40k  
