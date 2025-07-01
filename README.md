@@ -15,10 +15,10 @@ A personal collection of high-quality resources for learning AI, machine learnin
 - [Andrew Ng’s Machine Learning (Coursera)](https://www.coursera.org/learn/machine-learning)  
   *Classic ML course that introduces supervised learning, unsupervised learning, and best practices.*
 
-- [Campus X YouTube Playlist](https://www.youtube.com/@CampusX/playlists)  
+- [100 Days of Deep Learning (Campus X)](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)  
   *Practical machine learning and data science tutorials.*
 
-- [D2AI YouTube](https://www.youtube.com/@D2AICourse)  
+- [D2AI](https://www.youtube.com/@D2AICourse)  
   *Deep Learning for AI and Computer Vision — practical tutorials and concepts.*
 
 - [Stanford CS336: Large Language Models](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)  
