@@ -18,7 +18,7 @@ A personal collection of high-quality resources for learning AI, machine learnin
 - [100 Days of Deep Learning (Campus X)](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)  
   *Practical machine learning and data science tutorials.*
 
-- [D2AI](https://www.youtube.com/@D2AICourse)  
+- [D2AI](https://d2l.ai/)  
   *Deep Learning for AI and Computer Vision — practical tutorials and concepts.*
 
 - [Stanford CS336: Large Language Models](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)  
