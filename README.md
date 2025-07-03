@@ -45,8 +45,12 @@ A personal collection of high-quality resources for learning AI, machine learnin
 - [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses?tab=readme-ov-file) — ⭐ 69.2k  
   *Tutorials that cover almost every topic under Computer Science.*
 
----
-
+- [Mathematics and Science](https://github.com/Developer-Y/math-science-video-lectures)-
+  *Collection of courses on Science and Math*
+  
+- [Robotic Perception](https://github.com/ariarobotics/robotic-mapping)-
+  *Focuses on robotics and computer vision topics such as robust perception, visual navigation, simultaneous localization and mapping (SLAM), multi-robot SLAM, and multi-agent systems*
+  
 ## 🔹 Cheat Sheets & Reference
 
 - [Machine Learning Cheat Sheet](https://github.com/soulmachine/machine-learning-cheat-sheet?utm_source=linkedin) — ⭐ 7.8k  
