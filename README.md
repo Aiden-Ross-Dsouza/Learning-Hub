@@ -43,7 +43,7 @@ A personal collection of high-quality resources for learning AI, machine learnin
   *Tutorials on LLMs, RAGs, and real-world AI agent applications.*
   
 - [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses?tab=readme-ov-file) — ⭐ 69.2k  
-  *Tutorials that cover almost every topic under CSE.*
+  *Tutorials that cover almost every topic under Computer Science.*
 
 ---
 
