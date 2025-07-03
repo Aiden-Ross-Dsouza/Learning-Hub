@@ -42,8 +42,8 @@ A personal collection of high-quality resources for learning AI, machine learnin
 - [AI Engineering Hub](https://github.com/patchy631/ai-engineering-hub?utm_source=linkedin) — ⭐ 12.8k  
   *Tutorials on LLMs, RAGs, and real-world AI agent applications.*
   
-- [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses?tab=readme-ov-file) — ⭐ 69.2k
-  *Tutorials that cover almost every topic within CSE.*
+- [Computer Science courses with video lectures](https://github.com/Developer-Y/cs-video-courses?tab=readme-ov-file) — ⭐ 69.2k  
+  *Tutorials that cover almost every topic under CSE.*
 
 ---
 
