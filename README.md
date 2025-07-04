@@ -65,7 +65,7 @@ A personal collection of high-quality resources for learning AI, machine learnin
 
 ## 🔹 Visualizers
 
-- [Neural Network Playground](https://playground.tensorflow.org/) 
+- [Neural Network Playground](https://playground.tensorflow.org/)  
   *An interactive tool to see neural networks learn and make decisions.*
 
 ---
