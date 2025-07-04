@@ -12,6 +12,9 @@ A personal collection of high-quality resources for learning AI, machine learnin
 - [Minitorch](https://minitorch.github.io/)  
   *A minimal PyTorch-like library and educational framework for learning deep learning from scratch.*
 
+- [PyTorch in One Hour: From Tensors to Training Neural Networks on Multiple GPUs](https://sebastianraschka.com/teaching/pytorch-1h/)
+  *A good blog to learn basics of Pytorch.*
+
 - [Neural Networks and Deep Learning (Andrew Ng)](https://www.coursera.org/learn/neural-networks-deep-learning?utm_medium=sem&utm_source=gg&utm_campaign=b2c_emea_x_multi_ftcof_career-academy_cx_dr_bau_gg_pmax_gc_s1_en_m_hyb_23-12_x&campaignid=20858198824&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&creativeid=&assetgroupid=6490027433&targetid=&extensionid=&placement=&gad_source=1&gad_campaignid=20854471652&gbraid=0AAAAADdKX6b9fr8kjNQg7swFHIkpgSZJf&gclid=Cj0KCQjwjo7DBhCrARIsACWauSljZ3iPLK2ZjcDxIYbx9aPLpL9YUJ3yxhBhKBq-Ch6BNdxA1xVRb-AaAtFrEALw_wcB)  
   *Foundational course on deep learning, neural networks, and backpropagation.*
 
