@@ -21,6 +21,12 @@ A personal collection of high-quality resources for learning AI, machine learnin
 - [100 Days of Deep Learning (Campus X)](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)  
   *Practical machine learning and data science tutorials.*
 
+- [Mathematical Foundations of Generative AI (IIT Madras)](https://www.youtube.com/playlist?list=PLZ2ps__7DhBa5xCmncgH7kPqLqMBq7xlu)  
+  *GenAI basics*
+
+- [Introduction to large language models (IIT Madras)](https://www.youtube.com/playlist?list=PLZ2ps__7DhBbaMNZoyW2Hizl8DG6ikkjo)  
+  *Great Introduction to LLMs*
+
 - [D2AI](https://d2l.ai/)  
   *Deep Learning for AI and Computer Vision — practical tutorials and concepts.*
 
